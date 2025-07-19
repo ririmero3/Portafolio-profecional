@@ -1,0 +1,10 @@
+.fondoslider{
+    background-image: url(../Components/Images/fondorell.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fondoimagenes{
+    background-image: url(../Components/Images/fondo\ primavera.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
